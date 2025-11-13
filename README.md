@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +47,7 @@
 
 
 
-## 🎯 Data Engineering Skills
+## Data Engineering Skills
 
 ```
 ETL/ELT Pipelines     ████████████████████████████████████████ 100%
@@ -61,6 +61,6 @@ Machine Learning     ███████████████████�
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 Becoming a Data Engineer
