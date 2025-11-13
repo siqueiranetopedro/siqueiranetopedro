@@ -16,21 +16,6 @@
 
 ---
 
-## 🚀 About Me
-
-**Data Engineer | Python Developer | Cloud Technologies Enthusiast**
-
-I'm passionate about building robust data pipelines and creating interactive dashboards that turn raw data into actionable insights. Currently exploring the intersection of financial data, cloud technologies, and real-time analytics.
-
-- 🔭 I'm currently working on **Real-time Financial Data Pipelines with Google BigQuery**
-- 🌱 I'm learning **Advanced Cloud Architecture and Data Engineering**
-- 💡 I love building **ETL pipelines, interactive dashboards, and data visualization tools**
-- 📍 Based in **Queens, New York**
-- 💬 Ask me about **Python, Data Pipelines, Google Cloud, and Financial Analytics**
-- ⚡ Fun fact: **I built a tic-tac-toe AI to test if AI will take our jobs... still playing! 🎮**
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -89,27 +74,4 @@ Machine Learning     ███████████████████�
 
 ## 📈 Current Focus
 
-Becoming a data Engineer
-
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to discuss data engineering, cloud technologies, and innovative projects! Whether you're interested in collaboration, have questions about my work, or just want to chat about the latest in data science, feel free to reach out.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-siqueira-a77a891a9">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/siqueiranetopedro">Pedro Siqueira</a> - Always building, always learning! 🚀</i>
-</p>
+Becoming a Data Engineer
