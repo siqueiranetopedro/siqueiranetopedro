@@ -55,17 +55,12 @@ I'm passionate about building robust data pipelines and creating interactive das
   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
+
 
 
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siqueiranetopedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueiranetopedro&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siqueiranetopedro&theme=tokyonight" alt="siqueiranetopedro" />
