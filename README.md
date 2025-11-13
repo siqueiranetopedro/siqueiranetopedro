@@ -45,17 +45,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siqueiranetopedro&theme=tokyonight" alt="siqueiranetopedro" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siqueiranetopedro&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
 
 
 ## 🎯 Data Engineering Skills
