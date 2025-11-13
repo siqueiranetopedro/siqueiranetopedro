@@ -77,23 +77,6 @@ I'm passionate about building robust data pipelines and creating interactive das
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siqueiranetopedro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-## 💼 What I'm Working On
-
-- 🔬 **Advanced Financial Analytics**: Building more sophisticated market prediction models
-- 🏗️ **Cloud Architecture**: Designing scalable data pipelines with Google Cloud
-- 📊 **Real-time Dashboards**: Creating interactive visualization tools for business intelligence
-- 🤖 **Machine Learning**: Applying ML techniques to financial and business data
-- 📚 **Continuous Learning**: Exploring new technologies in data engineering and cloud computing
-
----
 
 ## 🎯 Data Engineering Skills
 
@@ -111,20 +94,8 @@ Machine Learning     ███████████████████�
 
 ## 📈 Current Focus
 
-🎯 **Building Production-Ready Data Pipelines**
-- Real-time data processing with streaming technologies
-- Automated data quality monitoring and alerting
-- Scalable cloud infrastructure design
+Becoming a data Engineer
 
-🎯 **Financial Technology Innovation**  
-- Market data analysis and prediction models
-- Algorithmic trading strategy development
-- Risk management and portfolio optimization
-
-🎯 **Professional Development**
-- Advanced Google Cloud Platform certifications
-- Data engineering best practices and patterns
-- Open source contributions to the data community
 
 ---
 
