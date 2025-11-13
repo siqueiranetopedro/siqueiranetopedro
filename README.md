@@ -57,44 +57,6 @@ I'm passionate about building robust data pipelines and creating interactive das
 
 ---
 
-## 🎯 Featured Projects
-
-### 📈 [Yahoo Finance BigQuery Pipeline Dashboard](https://github.com/siqueiranetopedro/yahoo-finance-bigquery-pipeline-Dash)
-**Real-time financial data pipeline with interactive dashboard**
-- 🔥 **Live stock prices and crypto data** from Yahoo Finance & Alpha Vantage APIs
-- ☁️ **Google Cloud integration** with BigQuery and Cloud Storage
-- 📊 **Interactive Plotly Dash dashboard** with 30-second auto-refresh
-- 🐍 **Python ETL pipeline** with error handling and data validation
-- 📱 **Responsive design** for desktop and mobile
-
-**Tech Stack:** `Python` `Plotly Dash` `Google BigQuery` `Cloud Storage` `pandas` `yfinance` `APIs`
-
-### 🚗 [Tesla Model Y Analysis](https://github.com/siqueiranetopedro/Tesla-Model-Y-Analysis)
-**Comprehensive machine learning analysis for predicting Tesla Model Y electric range**
-- 🤖 **Machine Learning models** for electric vehicle range prediction
-- 📈 **Data visualization** and exploratory data analysis
-- 🔬 **Feature engineering** and model optimization
-- 📊 **Interactive notebooks** with detailed analysis
-
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `Matplotlib` `Jupyter`
-
-### ⚙️ [Google Cloud ETL Pipeline](https://github.com/siqueiranetopedro/Pipeline_to_GoogleCloud_BigQuery)
-**Python ETL pipeline processing sales data with Google Cloud Platform**
-- 📂 **CSV to Cloud** automated data ingestion
-- 🔄 **Data transformation** with pandas
-- 🏗️ **Cloud architecture** with BigQuery and Cloud Storage
-- 📋 **Data validation** and quality checks
-
-**Tech Stack:** `Python` `Google Cloud` `BigQuery` `pandas` `ETL`
-
-### 🎮 [Tic-Tac-Toe AI](https://github.com/siqueiranetopedro/tic-tac-toe-ai)
-**AI vs Human challenge - Testing if AI will take our jobs!**
-- 🧠 **Minimax algorithm** implementation
-- 🎯 **Unbeatable AI** logic
-- 🎲 **Interactive gameplay** with Python
-- 😄 **Fun project** with a serious question!
-
-**Tech Stack:** `Python` `Game Theory` `Algorithms`
 
 ---
 
