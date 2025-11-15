@@ -46,21 +46,6 @@
 ---
 
 
-
-## Data Engineering Skills
-
-```
-ETL/ELT Pipelines     ████████████████████████████████████████ 100%
-Python Development   ████████████████████████████████████████ 100%
-Data Visualization   ███████████████████████████████████████  95%
-Cloud Technologies   ██████████████████████████████████████   90%
-API Integration      ██████████████████████████████████████   90%
-SQL & Databases      ████████████████████████████████████     85%
-Machine Learning     ████████████████████████████████         80%
-```
-
----
-
 ## Current Focus
 
 Expanding into Data Engineering 
