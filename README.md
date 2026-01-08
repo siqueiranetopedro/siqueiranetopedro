@@ -1,7 +1,7 @@
 # Hi, I'm Pedro! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Pursuing+Data+Engineering+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Cloud+Technologies+Enthusiast+%E2%98%81%EF%B8%8F;ETL+Pipeline+%F0%9F%94%84;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Pursuing+Data+Engineering+%F0%9F%93%8A;Python+Enthusiast+Developer+%F0%9F%90%8D;Cloud+Technologies+Enthusiast+%E2%98%81%EF%B8%8F;ETL+Pipeline+%F0%9F%94%84;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
