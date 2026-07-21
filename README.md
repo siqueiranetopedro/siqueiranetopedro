@@ -49,6 +49,4 @@
 ---
 
 
-## Current Focus
 
-Expanding into Data Engineering 
